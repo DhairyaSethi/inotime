@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/DhairyaSethi/inotime#readme",
   "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.36",
+    "dotenv": "^8.2.0",
     "web3": "^1.2.9"
   }
 }

@@ -1,3 +1,5 @@
+build/
+sec/
 # Logs
 logs
 *.log
