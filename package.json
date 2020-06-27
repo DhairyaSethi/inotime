@@ -1,0 +1,22 @@
+{
+  "name": "inotime",
+  "version": "1.0.0",
+  "description": "Swap Eth/Dai on Uniswap V2 Pool by transacting with dai.inotime.eth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhairyaSethi/inotime.git"
+  },
+  "author": "DS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhairyaSethi/inotime/issues"
+  },
+  "homepage": "https://github.com/DhairyaSethi/inotime#readme",
+  "dependencies": {
+    "web3": "^1.2.9"
+  }
+}
